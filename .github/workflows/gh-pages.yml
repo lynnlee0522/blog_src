@@ -1,4 +1,4 @@
-name: deploy to sky-bro.github.io
+name: deploy to lynnlee0522.github.io
 
 on:
   push:
