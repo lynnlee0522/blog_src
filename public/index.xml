@@ -9,19 +9,19 @@
     <lastBuildDate>Sun, 24 Sep 2023 12:06:15 +0800</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>learn hugo</title>
-      <link>https://example.org/posts/learning-hugo/</link>
+      <link>https://example.org/post/learning-hugo/</link>
       <pubDate>Sun, 24 Sep 2023 12:06:15 +0800</pubDate>
       
-      <guid>https://example.org/posts/learning-hugo/</guid>
+      <guid>https://example.org/post/learning-hugo/</guid>
       <description>Introduction Basic usage hugo version hugo help hugo server --help hugo --buildDrafts # or -D hugo --buildExpired # or -E hugo --buildFuture # or -F hugo server --navigateToChanged Directory structure </description>
     </item>
     
     <item>
       <title>My First Post 哈哈</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>https://example.org/post/my-first-post/</link>
       <pubDate>Sun, 24 Sep 2023 12:06:15 +0800</pubDate>
       
-      <guid>https://example.org/posts/my-first-post/</guid>
+      <guid>https://example.org/post/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.
 test
 Visit the Hugo website!</description>
