@@ -13,7 +13,7 @@
       <pubDate>Sun, 24 Sep 2023 12:06:15 +0800</pubDate>
       
       <guid>https://example.org/posts/learning-hugo/</guid>
-      <description>Introduction Basic usage hugo version hugo help hugo server --help hugo --buildDrafts # or -D hugo --buildExpired # or -E hugo --buildFuture # or -F hugo server --navigateToChanged </description>
+      <description>Introduction Basic usage hugo version hugo help hugo server --help hugo --buildDrafts # or -D hugo --buildExpired # or -E hugo --buildFuture # or -F hugo server --navigateToChanged Directory structure </description>
     </item>
     
     <item>
