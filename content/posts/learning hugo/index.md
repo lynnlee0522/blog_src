@@ -6,8 +6,6 @@ draft = false
 ## Introduction
 
 ### Basic usage
-
-
 ```cli
 hugo version
 hugo help 
@@ -20,3 +18,5 @@ hugo --buildFuture    # or -F
 hugo server --navigateToChanged
 
 ```
+
+### Directory structure
