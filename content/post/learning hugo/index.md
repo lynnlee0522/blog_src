@@ -20,3 +20,12 @@ hugo server --navigateToChanged
 ```
 
 ### Directory structure
+
+### Configuration
+#### Merge configuration from themes 
+
+The configuration value for _merge can be one of: none / shallow / deep
+
+
+
+

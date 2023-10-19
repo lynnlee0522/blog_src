@@ -1,0 +1,3 @@
+[utterances]       # https://utteranc.es/
+  owner = "sky-bro"              # Your GitHub ID
+  repo = "blog-comments"               # The repo to store comments

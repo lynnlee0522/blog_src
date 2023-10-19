@@ -1,0 +1,69 @@
+baseURL = 'https://11n.top/'
+languageCode = 'en-us'
+title = 'My New Hugo Site haha'
+theme = 'github-style'
+
+
+# test = 'test'
+# # When building, removes files from destination not found in static directories.
+# cleanDestinationDir = true
+# # Copyright notice for your site, typically displayed in the footer.
+Copyright = 'test2233'
+
+# defaultContentLanguage = "en"
+# defaultContentLanguageInSubdir = false
+# disableHugoGeneratorInject = false
+# # disableKinds = ['404']
+# enableGitInfo = true
+# enableRobotsTXT = true
+# hasCJKLanguage = true
+
+# [build]
+# noJSConfigInAssets = false
+# useResourceCacheWhen = 'fallback'
+# [build.buildStats]
+# disableClasses = false
+# disableIDs = false
+# disableTags = false
+# enable = true
+
+
+# date = true
+# lastmod = true
+# expiryDate = true
+
+# [frontmatter]
+
+# date = ['date', 'publishdate', 'pubdate', 'published', 'lastmod', 'modified']
+# expiryDate = ['expirydate', 'unpublishdate']
+# lastmod = [
+#   ':git',
+#   'lastmod',
+#   'modified',
+#   'date',
+#   'publishdate',
+#   'pubdate',
+#   'published',
+# ]
+# publishDate = ['publishdate', 'pubdate', 'published', 'date']
+
+[params]
+enableGitalk = true
+themeOptions = ["light", "dark", "hacker", "solarized", "kimbie"] 
+
+[params.gitalk]
+clientID = "Your client ID"
+clientSecret = "Your client secret"
+repo = "repo"
+owner = "Your Github username"
+admin = "Your Github username"
+id = "location.pathname"
+labels = "gitalk"
+perPage = 30
+pagerDirection = "last"
+createIssueManually = true
+distractionFreeMode = false
+
+[params.utterances]
+  owner = "sky-bro"              # Your GitHub ID
+  repo = "blog-comments"               # The repo to store comments
